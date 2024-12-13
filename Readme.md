@@ -59,7 +59,7 @@ python setup_database.py
 
 2. Add faces to the system:
 ```bash
-python capture_and_add_face.py
+python user_interface.py
 ```
 - Enter the person's name
 - Position face in the camera
