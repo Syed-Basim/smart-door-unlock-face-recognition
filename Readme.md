@@ -44,7 +44,7 @@ pip install numpy
 face-recognition-security/
 ├── setup_database.py          # Database initialization and management
 ├── face_recognition_implementation.py # Core face recognition functions
-├── capture_and_add_face.py    # Interface for adding new faces
+├── user_interface.py    # Interface for adding new faces
 ├── lock_control.py           # Electronic lock control system
 ├── main_program.py           # Main application script
 └── README.md
